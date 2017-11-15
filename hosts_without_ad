@@ -1,4 +1,4 @@
-# Last updated: 2017-08-05
+# Last updated: 2017-11-15
 127.0.0.1    localhost
 127.0.1.1    debian
 
@@ -9,6 +9,7 @@
 127.0.0.1 test.com
 # SELF-Define END }}}
 
+#{{{ Forbidden AD START 
 #Adobe Activation START
 0.0.0.0    3dns-2.adobe.com
 0.0.0.0    3dns-3.adobe.com
@@ -904,8 +905,9 @@
 #0.0.0.0 ajax.googleapis.com
 #0.0.0.0 www.googleapis.com
 #0.0.0.0 google-analytics.com
+# Forbidden AD End }}} 
 
-# Modified Hosts Start
+#{{{ Latest Host Start
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
 # Last updated: 2017-11-05
@@ -914,14 +916,6 @@
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 # Modified Hosts Start
-
-# Localhost (DO NOT REMOVE) Start
-127.0.0.1	localhost
-::1	localhost
-::1	ip6-localhost
-::1	ip6-loopback
-# Localhost (DO NOT REMOVE) End
-
 # Akamai Start
 23.201.102.89	a248.e.akamai.net
 184.28.188.186	static.ak.instagram.com
@@ -16187,4 +16181,4 @@
 # Google XN End
 
 # Modified Hosts End
-
+# Latest Host Start }}} 
