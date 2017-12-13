@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-11-05
+# Last updated: 2017-12-10
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -822,6 +822,7 @@ add address=108.177.120.94 name=bpui0.google.com
 add address=108.177.120.94 name=buzz.google.com
 add address=108.177.120.94 name=calendar.google.com
 add address=108.177.120.94 name=classroom.google.com
+add address=108.177.120.94 name=classroom.google.ca
 add address=108.177.120.94 name=cloud.google.com
 add address=108.177.120.94 name=packages.cloud.google.com
 add address=108.177.120.94 name=ssh.cloud.google.com
@@ -1145,6 +1146,7 @@ add address=108.177.120.94 name=gxc.google.com.hk
 add address=108.177.120.94 name=get.google.com.hk
 add address=108.177.120.94 name=gsuite.google.com.hk
 add address=108.177.120.94 name=groups.google.com.hk
+add address=108.177.120.94 name=id.google.com.hk
 add address=108.177.120.94 name=image.google.com.hk
 add address=108.177.120.94 name=video.google.com.hk
 add address=108.177.120.94 name=jmt17.google.com.hk
@@ -1175,6 +1177,7 @@ add address=108.177.120.94 name=get.google.com.tw
 add address=108.177.120.94 name=gsuite.google.com.tw
 add address=108.177.120.94 name=groups.google.com.tw
 add address=108.177.120.94 name=image.google.com.tw
+add address=108.177.120.94 name=id.google.com.tw
 add address=108.177.120.94 name=video.google.com.tw
 add address=108.177.120.94 name=jmt17.google.com.tw
 add address=108.177.120.94 name=lh4.google.com.tw
@@ -2309,6 +2312,11 @@ add address=172.217.27.4 name=googlemashups.com
 add address=172.217.27.4 name=www.googlemashups.com
 # Google Mashups End
 
+# Google Misc Start
+add address=216.239.32.27 name=certificate-transparency.org
+add address=216.239.32.27 name=www.certificate-transparency.org
+# Google Misc End
+
 # Google:stun Server Start
 add address=64.233.177.127 name=stun.l.google.com
 add address=64.233.177.127 name=alt1.stun.l.google.com
@@ -2609,6 +2617,10 @@ add address=108.177.120.94 name=mt5.gstatic.com
 add address=108.177.120.94 name=mt6.gstatic.com
 add address=108.177.120.94 name=mt7.gstatic.com
 # Gstatic End
+
+# Hinet Start
+add address=211.20.148.228 name=hichannel.hinet.net
+# Hinet End
 
 # Heroku Start
 add address=52.1.240.62 name=id.heroku.com
@@ -2991,6 +3003,10 @@ add address=54.192.75.27 name=www.resilio.com
 add address=54.82.227.39 name=new-bench.resilio.com
 # Resilio Sync End
 
+# Shadowsocks Start
+add address=104.28.18.85 name=shadowsocks.org
+# Shadowsocks End
+
 # Soundcloud Start
 add address=68.232.44.127 name=soundcloud.com
 add address=68.232.44.127 name=api-v2.soundcloud.com
@@ -3082,6 +3098,10 @@ add address=66.6.32.162 name=px.srvcs.tumblr.com
 add address=52.85.155.165 name=96.media.tumblr.com
 add address=192.229.237.98 name=97.media.tumblr.com
 # Tumblr End
+
+# Tutanota Start
+add address=81.3.6.162 name=app.tutanota.com
+# Tutanota End
 
 # Telegram Start
 add address=149.154.166.206 name=telegram.org
