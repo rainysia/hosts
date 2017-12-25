@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-10
+# Last updated: 2017-12-23
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -49,6 +49,10 @@ add address=172.217.60.74 name=source.android.com
 add address=172.217.60.162 name=tools.android.com
 add address=172.217.60.97 name=developer.android.com
 # Android End
+
+# Androidfilehost Start
+add address=151.139.240.14 name=androidfilehost.com
+# Androidfilehost End
 
 # Apkpure Start
 add address=104.20.82.194 name=apkpure.com
@@ -164,6 +168,13 @@ add address=52.84.167.78 name=d3c33hcgiwev3.cloudfront.net
 # Culturalspot Start
 add address=172.217.31.96 name=embed.culturalspot.org
 # Culturalspot End
+
+# Conoha Start
+add address=157.7.225.122 name=cp.conoha.jp
+add address=103.3.190.48 name=www.conoha.jp
+add address=157.7.225.117 name=app.conoha.jp
+add address=157.7.225.120 name=manage.conoha.jp
+# Conoha End
 
 # Dropbox Start
 add address=162.125.248.2 name=db.tt
@@ -799,10 +810,10 @@ add address=172.217.27.247 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unic
 add address=216.58.200.183 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 add address=216.58.200.195 name=p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 add address=216.58.200.187 name=ogs.google.com
-add address=172.217.60.241 name=www.google.com
-add address=172.217.60.148 name=id.google.com
-add address=172.217.60.89 name=clients5.google.com
-add address=172.217.60.185 name=apis.google.com
+add address=216.58.203.14 name=www.google.com
+add address=216.58.203.35 name=id.google.com
+add address=216.58.203.14 name=clients5.google.com
+add address=216.58.203.14 name=apis.google.com
 # Google Search Home End
 
 # Google Service Start
@@ -2917,20 +2928,22 @@ add address=210.129.120.49 name=ssl.pixiv.net
 add address=66.6.32.22 name=times.pixiv.net
 add address=210.129.120.50 name=recruit.pixiv.net
 add address=210.129.120.49 name=pixiv.net
-add address=113.33.39.198 name=p2.pixiv.net
-add address=210.129.120.47 name=matsuri.pixiv.net
+add address=122.208.114.218 name=p2.pixiv.net
+add address=52.84.203.238 name=matsuri.pixiv.net
 add address=210.129.120.46 name=m.pixiv.net
-add address=52.85.87.254 name=iracon.pixiv.net
+add address=52.84.203.163 name=iracon.pixiv.net
 add address=52.69.82.228 name=inside.pixiv.net
 add address=210.140.131.147 name=i1.pixiv.net
 add address=153.120.23.207 name=help.pixiv.net
-add address=52.219.4.58 name=goods.pixiv.net
+add address=210.129.120.43 name=goods.pixiv.net
 add address=210.129.120.40 name=genepixiv.pr.pixiv.net
-add address=52.85.87.122 name=festa.pixiv.net
+add address=52.84.203.136 name=festa.pixiv.net
 add address=210.129.120.45 name=en.dic.pixiv.net
-add address=52.219.4.114 name=dev.pixiv.net
+add address=52.219.68.134 name=dev.pixiv.net
 add address=210.129.120.42 name=chat.pixiv.net
-add address=113.33.39.198 name=blog.pixiv.net
+add address=122.208.114.218 name=blog.pixiv.net
+add address=210.129.120.43 name=embed.pixiv.net
+add address=210.129.120.44 name=comic-api.pixiv.net
 # Pixiv End
 
 # Periscope Start
@@ -3054,6 +3067,16 @@ add address=64.71.134.122 name=support.startpage.com
 add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
 
+# Steam Start
+add address=223.119.217.234 name=steamcommunity.com
+add address=223.119.217.234 name=store.steampowered.com
+add address=223.119.217.234 name=help.steampowered.com
+add address=223.119.50.137 name=steamcommunity-a.akamaihd.net
+add address=223.119.248.8 name=steamuserimages-a.akamaihd.net
+add address=223.119.50.139 name=steamcdn-a.akamaihd.net
+add address=223.119.248.26 name=cdn.akamai.steamstatic.com
+# Steam End
+
 # Theinitium Start
 add address=52.76.148.61 name=stigma.theinitium.com
 add address=52.221.46.214 name=theinitium.com
@@ -3097,6 +3120,7 @@ add address=66.6.32.162 name=ls.srvcs.tumblr.com
 add address=66.6.32.162 name=px.srvcs.tumblr.com
 add address=52.85.155.165 name=96.media.tumblr.com
 add address=192.229.237.98 name=97.media.tumblr.com
+add address=124.108.101.59 name=api-http2.tumblr.com
 # Tumblr End
 
 # Tutanota Start
@@ -3181,6 +3205,10 @@ add address=23.41.77.13 name=www.voachinese.com
 add address=23.41.77.13 name=av.voanews.com
 add address=23.66.39.94 name=gdb.voanews.com
 # Voa End
+
+# Vnet Start
+add address=149.56.30.149 name=vnet.link
+# Vnet End
 
 # Whatsapp Start
 add address=157.240.1.53 name=www-cdn.whatsapp.net

@@ -1,6 +1,6 @@
 # Copyright (c) 2017, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-10
+# Last updated: 2017-12-23
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -23,6 +23,7 @@
 172.217.60.74	source.android.com
 172.217.60.162	tools.android.com
 172.217.60.97	developer.android.com
+151.139.240.14	androidfilehost.com
 104.20.82.194	apkpure.com a.apkpure.com download.apkpure.com m.apkpure.com i.apkpure.com static.apkpure.com translate.apkpure.com
 104.19.133.58	www.apkmirror.com
 64.233.188.151	www.appspot.com appspot.com events.withgoogle.com summerofcode.withgoogle.com foobar.withgoogle.com interstellar.withgoogle.com edudirectory.withgoogle.com atmosphere.withgoogle.com accelerate.withgoogle.com insgruene.withgoogle.com atmospheretokyo.withgoogle.com connectedclassrooms.withgoogle.com smartypins.withgoogle.com streetart.withgoogle.com cardboard.withgoogle.com kickwithchrome.withgoogle.com candidatos.withgoogle.com trendstw.withgoogle.com impactchallenge.withgoogle.com eduproducts.withgoogle.com onetoday.google.com withgoogle.com www.withgoogle.com cloudnext.withgoogle.com edutrainingcenter.withgoogle.com earthview.withgoogle.com lightsaber.withgoogle.com britishmuseum.withgoogle.com beyondthemap.withgoogle.com analyticsacademy.withgoogle.com spellup.withgoogle.com
@@ -39,6 +40,10 @@
 104.16.5.13	www.change.org assets.change.org
 104.16.4.13	change.org assets-fe.change.org
 52.84.167.78	d3c33hcgiwev3.cloudfront.net
+157.7.225.122	cp.conoha.jp
+103.3.190.48	www.conoha.jp
+157.7.225.117	app.conoha.jp
+157.7.225.120	manage.conoha.jp
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com www.dualstack.dropbox-dns.com api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
 162.125.32.135	api-d.dropbox.com
@@ -136,16 +141,15 @@
 172.217.25.220	chrome.google.com
 74.125.248.73	git.chromium.org
 216.58.200.24	www.goo.gl www.google.com.af www.google.com.ag www.google.com.ai www.google.com.ar www.google.com.au www.google.com.bd www.google.com.bh www.google.com.bn www.google.com.bo www.google.com.br www.google.com.by www.google.com.bz www.google.com.co www.google.com.co.jp www.google.com.cu www.google.com.cy www.google.com.do www.google.com.ec www.google.com.eg www.google.com.et www.google.com.fj www.google.com.ge www.google.com.gh www.google.com.gi www.google.com.gr www.google.com.gt www.google.com.iq www.google.com.jm www.google.com.jo www.google.com.kh www.google.com.kw www.google.com.lb www.google.com.ly www.google.com.mm www.google.com.mt www.google.com.mx www.google.com.my www.google.com.na www.google.com.nf www.google.com.ng www.google.com.ni www.google.com.np www.google.com.nr www.google.com.om www.google.com.pa www.google.com.pe www.google.com.pg www.google.com.ph www.google.com.pk www.google.com.pr www.google.com.py www.google.com.qa www.google.com.ru www.google.com.sa www.google.com.sb www.google.com.sg www.google.com.sl www.google.com.sv www.google.com.tj www.google.com.tr www.google.com.ua www.google.com.uy www.google.com.vc www.google.com.vn
-172.217.60.148	www.google.com.hk id.google.com
+172.217.60.148	www.google.com.hk
 172.217.60.221	www.google.com.tw
 172.217.26.195	p5-lhw4jk4anlzk2-i63aajw7rkfmqnb7-248277-s1-v6exp3-v4.metric.gstatic.com
 172.217.27.247	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com
 216.58.200.183	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com
 216.58.200.195	p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com
 216.58.200.187	ogs.google.com
-172.217.60.241	www.google.com
-172.217.60.89	clients5.google.com
-172.217.60.185	apis.google.com
+216.58.203.14	www.google.com clients5.google.com apis.google.com
+216.58.203.35	id.google.com
 74.125.197.115	checkout.google.com
 64.15.126.80	drive.google.com
 64.15.126.78	ipv4.google.com
@@ -268,11 +272,11 @@
 52.22.159.107	trk.pinterest.com
 54.165.175.178	developers.pinterest.com
 210.129.120.55	www.pixiv.net
-210.129.120.43	touch.pixiv.net
+210.129.120.43	touch.pixiv.net goods.pixiv.net embed.pixiv.net
 210.140.131.146	source.pixiv.net
 210.129.120.41	accounts.pixiv.net
 210.140.131.147	imgaz.pixiv.net i1.pixiv.net
-210.129.120.44	app-api.pixiv.net
+210.129.120.44	app-api.pixiv.net comic-api.pixiv.net
 210.129.120.48	oauth.secure.pixiv.net
 210.129.120.54	dic.pixiv.net
 210.140.131.145	comic.pixiv.net
@@ -284,17 +288,16 @@
 210.140.131.144	novel.pixiv.net
 210.129.120.49	ssl.pixiv.net pixiv.net
 210.129.120.50	recruit.pixiv.net
-113.33.39.198	p2.pixiv.net blog.pixiv.net
-210.129.120.47	matsuri.pixiv.net
+122.208.114.218	p2.pixiv.net blog.pixiv.net
+52.84.203.238	matsuri.pixiv.net
 210.129.120.46	m.pixiv.net
-52.85.87.254	iracon.pixiv.net
+52.84.203.163	iracon.pixiv.net
 52.69.82.228	inside.pixiv.net
 153.120.23.207	help.pixiv.net
-52.219.4.58	goods.pixiv.net
 210.129.120.40	genepixiv.pr.pixiv.net
-52.85.87.122	festa.pixiv.net
+52.84.203.136	festa.pixiv.net
 210.129.120.45	en.dic.pixiv.net
-52.219.4.114	dev.pixiv.net
+52.219.68.134	dev.pixiv.net
 210.129.120.42	chat.pixiv.net
 52.76.20.17	pscp.tv
 52.220.143.156	www.pscp.tv
@@ -363,12 +366,17 @@
 64.71.175.181	www.ixquick.com ixquick.com
 64.71.134.122	support.startpage.com
 64.71.134.121	support.ixquick.com
+223.119.217.234	steamcommunity.com store.steampowered.com help.steampowered.com
+223.119.50.137	steamcommunity-a.akamaihd.net
+223.119.248.8	steamuserimages-a.akamaihd.net
+223.119.50.139	steamcdn-a.akamaihd.net
+223.119.248.26	cdn.akamai.steamstatic.com
 52.76.148.61	stigma.theinitium.com
 52.221.46.214	theinitium.com api.theinitium.com
 119.161.14.19	tumblr.com
 119.161.14.20	www.tumblr.com
 107.23.241.99	tumblr.co
-124.108.101.59	api.tumblr.com secure.static.tumblr.com vt.media.tumblr.com
+124.108.101.59	api.tumblr.com secure.static.tumblr.com vt.media.tumblr.com api-http2.tumblr.com
 124.108.101.31	assets.tumblr.com secure.assets.tumblr.com
 69.147.88.9	media.tumblr.com vt.tumblr.com vtt.tumblr.com
 66.6.32.21	cynicallys.tumblr.com
@@ -417,6 +425,7 @@
 198.245.92.39	click.email.vimeo.com
 23.41.77.13	www.voachinese.com av.voanews.com
 23.66.39.94	gdb.voanews.com
+149.56.30.149	vnet.link
 157.240.1.53	www-cdn.whatsapp.net
 169.45.182.115	c.whatsapp.net
 158.85.5.217	m.whatsapp.net
