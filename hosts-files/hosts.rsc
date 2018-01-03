@@ -1,11 +1,11 @@
 /ip dns static
 
-# Copyright (c) 2017, googlehosts members.
+# Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2017-12-23
+# Last updated: 2018-01-02
 
-# This work is licensed under a CC BY-NC-SA 4.0 International License.
-# https://creativecommons.org/licenses/by-nc-sa/4.0/
+# This work is licensed under a modified HOSTS License.
+# https://github.com/googlehosts/hosts/raw/master/LICENSE
 
 # Modified Hosts Start
 
@@ -2667,11 +2667,11 @@ add address=169.44.145.200 name=batch.upsight-api.com
 
 # Instagram Start
 add address=52.45.94.103 name=instagram.com
-add address=157.240.11.52 name=www.instagram.com
-add address=157.240.11.52 name=badges.instagram.com
-add address=157.240.11.52 name=scontent.cdninstagram.com
-add address=157.240.11.52 name=scontent-b.cdninstagram.com
-add address=157.240.11.52 name=graph.instagram.com
+add address=157.240.11.172 name=www.instagram.com
+add address=157.240.11.172 name=badges.instagram.com
+add address=157.240.11.172 name=scontent.cdninstagram.com
+add address=157.240.11.172 name=scontent-b.cdninstagram.com
+add address=157.240.11.172 name=graph.instagram.com
 add address=31.13.70.52 name=logger.instagram.com
 add address=31.13.70.52 name=maps.instagram.com
 add address=31.13.77.52 name=scontent-a.cdninstagram.com
@@ -2975,6 +2975,10 @@ add address=104.20.39.14 name=psiphon.ca
 add address=104.20.38.14 name=www.psiphon.ca
 # Psiphon End
 
+# Ptt Start
+add address=140.112.172.1 name=ptt.cc
+# Ptt End
+
 # RawGit Start
 add address=198.232.125.81 name=cdn.rawgit.com
 # RawGit End
@@ -3235,6 +3239,8 @@ add address=198.35.26.96 name=wuu.wikipedia.org
 add address=198.35.26.96 name=zh-yue.wikipedia.org
 add address=198.35.26.96 name=zh.wikipedia.org
 add address=198.35.26.96 name=zh.m.wikipedia.org
+add address=198.35.26.96 name=ja.wikipedia.org
+add address=198.35.26.96 name=ja.m.wikipedia.org
 add address=198.35.26.112 name=upload.wikimedia.org
 # Wikipedia End
 
