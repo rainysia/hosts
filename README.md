@@ -1,8 +1,8 @@
 # Google Hosts
 [![doodle]][doodle-story]
 
-[doodle]: https://www.google.com/logos/doodles/2017/new-years-eve-2017-5093547849023488-2xa.gif "新年快乐!"
-[doodle-story]: https://www.google.com/search?ie=UTF-8&q=New%20Year%27s%20Eve%202017&oi=ddle&ct=new-years-eve-2017-5093547849023488-lawcta&hl=en&kgmid=%2Fm%2F01pl3y
+[doodle]: https://www.google.com/logos/doodles/2018/googles-20th-birthday-6342583134453760-2xa.gif "Google 生日快乐!"
+[doodle-story]: https://www.google.com/doodles/googles-20th-birthday
 
 |    [Telegram群][telegram-group-link]     | [Telegram通知频道][telegram-channel-link]  |  [hosts自动生成][travis-link]  |    [镜像hosts][mirror-link]    |
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
@@ -28,7 +28,7 @@
   - 使用**完全相同**的条款和格式发布。
   - 提供原作者信息以及协议声明。
   - 同时你也**不能将本项目用于商业用途**，凡是**任何盈利的活动皆属于商业用途**。
-  - 当你使用了使用SATA的开源软件或文档的时候，在遵守MIT许可证的前提下，你应该马不停蹄的给你所使用的开源项目“点个赞”，比如GitHub上的star，然后你应该感谢这个帮助了你的开源项目的作者，作者信息可以在许可证头部的版权声明部分找到。
+  - 当你使用了使用SATA的开源软件或文档的时候，在遵守MIT许可证的前提下，你应该马不停蹄地给你所使用的开源项目“点个赞”，比如GitHub上的star，然后你应该感谢这个帮助了你的开源项目的作者，作者信息可以在许可证头部的版权声明部分找到。
 
 - 本项目的所有代码除另有说明外，均基于MIT License发布，具体请看`hosts-master`分支下的[LICENSE](https://github.com/googlehosts/hosts/blob/hosts-source/LICENSE)。
 
